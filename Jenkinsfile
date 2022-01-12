@@ -40,4 +40,3 @@ stage('Docker deployment'){
    }
 }
 }
-
